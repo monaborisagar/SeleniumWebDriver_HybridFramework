@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/ATUReporter_Selenium_testNG_5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/poi-3.8.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/poi-ooxml-3.8.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="D:/PageObjectFramework/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
